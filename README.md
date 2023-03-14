@@ -1,2 +1,4 @@
 # nimbus-audit
-Python project that checks common security settings within AWS services
+Python project to audit key configurations of S3. 
+
+The project will eventually support other commonly used resources such as Lambda and RDS.
